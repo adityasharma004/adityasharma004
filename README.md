@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate in the field of computional Sciences
 - 📫 How to reach me aditya.sharma_bca22@gla.ac.in or my profile mail.
 <div align="center">
-<img src="https://thumbs.gfycat.com/TestyDisloyalChinchilla-size_restricted.gif"> 
+<img src="https://i.pinimg.com/originals/6a/97/a3/6a97a33fd255a81bd9dc406249e515d5.gif"> 
 
 ## Github Stats
 
