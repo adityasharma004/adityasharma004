@@ -1,8 +1,17 @@
+
 # <h2 align="left">Hi 👋! My name is Aditya Sharma.</h2>
 - 👀 I’m interested in computers and Science
 - 🌱 I’m currently learning frontend development
 - 💞️ I’m looking to collaborate in the field of computional Sciences
 - 📫 How to reach me aditya.sharma_bca22@gla.ac.in or my profile mail.
+-  <h2 align="center">
+ <abc>
+  <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
+  <br> I'm Aditya Sharma, Full Stack Web Developer :computer:<br>
+  <br>
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+ </abc>
+</h2> 
 <div align="center">
 <img src="https://i.pinimg.com/originals/6a/97/a3/6a97a33fd255a81bd9dc406249e515d5.gif"> 
 
@@ -16,14 +25,7 @@
 
 
 </div>
-  <h2 align="left">
- <abc>
-  <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  <br> I'm Aditya Sharma, Full Stack Web Developer :computer:<br>
-  <br>
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
- </abc>
-</h2> 
+ 
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
